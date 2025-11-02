@@ -1,0 +1,20 @@
+{
+  "short_name": "Pantry Pal",
+  "name": "Pantry Pal - AI Meal Planner",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/192/broccoli.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/broccoli.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#f9fafb"
+}

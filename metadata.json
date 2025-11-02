@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Pantry Pal",
+  "description": "An intelligent meal planning application that analyzes your pantry's contents through photos and suggests delicious recipes based on what you have available.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
